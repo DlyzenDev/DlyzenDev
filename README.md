@@ -1,2 +1,5 @@
 - 👋 Hi, I’m @DlyzenDev
-I'm a french developer in aoi.js and discord.py or python
+
+I am a French developer in aoi.js, discord.js and I am new to discord.py. I'm also a FiveM developer.
+
+For any special requests, please contact me on discord: dlyzen
